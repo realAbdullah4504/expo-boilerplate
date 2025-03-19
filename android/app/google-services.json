@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "860653388408",
+    "project_id": "expo-boilerplate-ce813",
+    "storage_bucket": "expo-boilerplate-ce813.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860653388408:android:4d1fa21c084d693dbd638d",
+        "android_client_info": {
+          "package_name": "com.expo.boilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860653388408-jq9mgcs4vv6oth55npedb4g4rcbk5mhr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.expo.boilerplate",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "860653388408-oq9nh68v735533cjj07vvugr7bdqmvm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdNQ1fyXXe-GFnvLAK5FZIF71WM4VBiTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860653388408-oq9nh68v735533cjj07vvugr7bdqmvm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
